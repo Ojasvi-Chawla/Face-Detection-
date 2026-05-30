@@ -18,3 +18,28 @@ Face detection on static images
 Uses Haar Cascade Classifier
 Simple and lightweight implementation
 Fast processing with OpenCV
+
+🧠 Technologies Used :
+Python
+OpenCV
+NumPy
+Jupyter Notebook
+
+⚙️ How It Works :
+Capture image/video frame
+Convert frame to grayscale
+Apply Haar Cascade classifier
+Detect faces in the frame
+Draw rectangles around detected faces
+Display the output
+
+📂 Project Structure :
+Face-Detection/
+│
+├── Face Detection.ipynb
+├── haarcascade_frontalface_default.xml
+├── sample_images/
+└── README.md
+
+🤝 Contributing :
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
