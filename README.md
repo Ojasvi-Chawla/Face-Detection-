@@ -41,5 +41,31 @@ Face-Detection/
 ├── sample_images/
 └── README.md
 
+▶️ Usage :
+Open the notebook
+Run all cells
+Allow webcam access (if using real-time detection)
+Faces will be detected and highlighted automatically
+
+📈 Applications :
+Security and surveillance systems
+Attendance systems
+Camera autofocus systems
+AI-powered monitoring applications
+Human-computer interaction systems
+
+🔍 Future Improvements :
+Add eye and smile detection
+Implement deep learning-based face detection
+Improve detection accuracy
+Add face recognition functionality
+Deploy as a web application
+
+💡 Learning Outcomes :
+Understanding of image processing
+Hands-on experience with OpenCV
+Knowledge of Haar Cascade classifiers
+Real-time object detection implementation
+
 🤝 Contributing :
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
